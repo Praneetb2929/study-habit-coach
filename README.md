@@ -30,10 +30,15 @@ This project was built as part of the HawkHacks @ Harper mini hackathon with the
 study-habit-coach/
 
 ── data/
-    └── quotes.json   
+
+    └── quotes.json
+    
 ── index.html
+
 ── style.css
+
 ── script.js
+
 ── README.md
 
 
