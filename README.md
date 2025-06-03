@@ -1,1 +1,35 @@
 # Study-Habit-Coach
+
+![Image](https://github.com/user-attachments/assets/324afa27-14a1-43b9-ba5e-f58a80dcb508)
+
+
+## Overview
+
+Study Habit Coach is a simple, user-friendly web app designed to help students improve their study habits by tracking their mood and hours studied daily. It provides personalized study suggestions and motivational quotes to keep users encouraged.
+
+This project was built as part of the HawkHacks @ Harper mini hackathon with the theme "Everyday Innovation."
+
+## Features
+
+- Select your current mood from predefined options.
+- Enter hours studied for the day.
+- Get tailored suggestions based on your mood and study hours.
+- Receive motivational quotes randomly to boost your morale.
+- Save and view your study history in the browser (localStorage).
+- Responsive and polished UI with clean design.
+
+## Technologies Used
+
+- HTML5, CSS3 for structure and styling
+- Vanilla JavaScript for logic and DOM manipulation
+- LocalStorage API for saving study history
+- JSON file (`data/quotes.json`) for motivational quotes
+
+## How to Run Locally
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/study-habit-coach.git
+Navigate into the project folder:
+
