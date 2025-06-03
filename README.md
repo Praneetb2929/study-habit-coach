@@ -32,4 +32,6 @@ This project was built as part of the HawkHacks @ Harper mini hackathon with the
    ```bash
    git clone https://github.com/yourusername/study-habit-coach.git
 Navigate into the project folder:
+   ```bash
+   cd study-habit-coach
 
