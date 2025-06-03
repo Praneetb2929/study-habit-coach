@@ -1,1 +1,1 @@
-# study-habit-coach
+# Study-Habit-Coach
