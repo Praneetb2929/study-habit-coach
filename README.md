@@ -66,7 +66,11 @@ study-habit-coach/
 ## Screenshots
 
 ![Image](https://github.com/user-attachments/assets/87ad7d63-cfe3-492e-855c-351bb9b108d1)
+
+GIVES SUGGESTION 
 ![Image](https://github.com/user-attachments/assets/30978b2e-4322-4884-9e3c-7fee91617157)
+
+GIVES STUDY HISTORY 
 ![Image](https://github.com/user-attachments/assets/e804c266-8dd9-4653-8b90-e7d2f15e57d2)
 
 
