@@ -28,12 +28,13 @@ This project was built as part of the HawkHacks @ Harper mini hackathon with the
 ##  Repository file structure
 
 study-habit-coach/
-├── data/
-│   └── quotes.json
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+
+── data/
+   └── quotes.json
+── index.html
+── style.css
+── script.js
+── README.md
 
 
 
