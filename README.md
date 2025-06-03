@@ -42,7 +42,7 @@ study-habit-coach/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/study-habit-coach.git
+   git clone https://github.com/Praneetb2929/study-habit-coach.git
 2. Navigate into the project folder:
  
    ```bash
