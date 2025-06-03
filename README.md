@@ -40,12 +40,19 @@ This project was built as part of the HawkHacks @ Harper mini hackathon with the
    
    ```bash
    python -m http.server 8000
-  Or using VSCode Live Server extension.
+ Or using VSCode Live Server extension.
   
 4.  Open your browser and visit:
 
-   ```bash
-   http://localhost:8000
+    ```bash
+    http://localhost:8000
+    
+5.  Use the app by selecting your mood, entering hours studied, and clicking Get Suggestion.
+
+
+
+
+  
 
 
 
