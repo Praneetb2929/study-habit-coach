@@ -25,6 +25,18 @@ This project was built as part of the HawkHacks @ Harper mini hackathon with the
 - LocalStorage API for saving study history
 - JSON file (`data/quotes.json`) for motivational quotes
 
+##  Repository file structure
+
+study-habit-coach/
+├── data/
+│   └── quotes.json
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+
+
 ## How to Run Locally
 
 1. Clone the repository:
@@ -52,6 +64,26 @@ This project was built as part of the HawkHacks @ Harper mini hackathon with the
 
 
 ## Screenshots
+
+![Image](https://github.com/user-attachments/assets/87ad7d63-cfe3-492e-855c-351bb9b108d1)
+![Image](https://github.com/user-attachments/assets/30978b2e-4322-4884-9e3c-7fee91617157)
+![Image](https://github.com/user-attachments/assets/e804c266-8dd9-4653-8b90-e7d2f15e57d2)
+
+
+## Future Improvements
+
+Add user authentication to save history remotely.
+
+Add more moods and suggestions.
+
+Integrate with calendar/reminder APIs.
+
+Mobile app version for notifications and reminders
+
+## License
+This project is open source and available under the MIT License.
+
+Thank you for checking out Study Habit Coach! Feel free to open issues or submit pull requests.
 
 
 
