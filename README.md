@@ -41,7 +41,8 @@ This project was built as part of the HawkHacks @ Harper mini hackathon with the
    ```bash
    python -m http.server 8000
   Or using VSCode Live Server extension.
-4. Open your browser and visit:
+  
+4.  Open your browser and visit:
 
    ```bash
    http://localhost:8000
